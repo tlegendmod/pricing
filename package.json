@@ -2,7 +2,7 @@
   "name": "pricing",
   "version": "1.0.0",
   "description": "hotel pricing tool",
-  "main": "index.js",
+  "main": "js/pricescrape.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
