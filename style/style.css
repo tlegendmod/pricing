@@ -1,6 +1,15 @@
 
 
+body {
+    text-align: center;
+
+}
+
 #price-table {
     width: 400px;
     left: 5px;
+    align-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
